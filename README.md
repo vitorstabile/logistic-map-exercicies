@@ -60,3 +60,32 @@ axs3.set_title("Xn+1 against Xn to r = " + str(r))
 plt.show()
 
 ```
+<br>
+
+<div align="center"><img src="img/r_09.png" width=1567 height=714><br><sub>r = 0.9 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_18.png" width=1567 height=714><br><sub>r = 1.8 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_26.png" width=1567 height=714><br><sub>r = 2.6 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_32.png" width=1567 height=714><br><sub>r = 3.2 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_36.png" width=1567 height=714><br><sub>r = 3.6 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_39.png" width=1567 height=714><br><sub>r = 3.9 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/r_399.png" width=1567 height=714><br><sub>r = 3.99 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
