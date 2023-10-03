@@ -89,3 +89,8 @@ plt.show()
 <div align="center"><img src="img/r_399.png" width=1567 height=714><br><sub>r = 3.99 - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
 
 <br>
+
+### Exercise b)
+
+Fo r in chaotic regime, start two initial points very close, e.g. ε=0.001, and stop when the trajectories differ by 0.5. Take note of the number of iterations. Now slightly decrease the value of r
+(e.g. δ=-0.1) and compare with the previous.
